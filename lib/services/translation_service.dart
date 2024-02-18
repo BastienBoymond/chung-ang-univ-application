@@ -7,7 +7,7 @@ export 'translation_service.dart';
 Future<String> translateText(String textToTranslate) async {
   final prefs = await SharedPreferences.getInstance();
   final apiUrl =
-      'https://translation.googleapis.com/language/translate/v2/?key=AIzaSyB9_Z-o83Ylc_hUApIhr1BctN7NFaeA5Vg';
+      'YOUR KEY';
   final targetTranslateCode = prefs.getString('languageCode') ?? 'en';
   final response = await http.post(
     Uri.parse(apiUrl),
