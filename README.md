@@ -52,7 +52,7 @@ This project was developed by:
 * <strong><a href="https://github.com/BastienBoymond">Bastien Boymond</a></strong>
 * <strong><a href="https://github.com/Lyne986">Diogo Faria Martins</a></strong>
 * <strong><a href="https://github.com/Carpetic">Hugo Nini</a></strong>
-* <strong><a href="https://github.com/ThomyLorenzatti">Thomas Lorenzatti</a></strong>
+* <strong><a href="https://github.com/ThomyLorenzatti">Thomy Lorenzatti</a></strong>
 
 Feel free to contribute by forking the repository and submitting pull requests.
 
